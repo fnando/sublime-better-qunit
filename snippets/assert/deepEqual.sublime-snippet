@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${QUNIT_ASSERT_PREFIX}deepEqual(${1:actual}, ${2:expected});
+]]></content>
+  <tabTrigger>deepEqual</tabTrigger>
+  <scope>source.js.qunit</scope>
+  <description>QUnit :: deepEqual</description>
+</snippet>

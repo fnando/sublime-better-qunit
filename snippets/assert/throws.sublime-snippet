@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${QUNIT_ASSERT_PREFIX}throws(${1:callback}, ${2:expected});
+]]></content>
+  <tabTrigger>throws</tabTrigger>
+  <scope>source.js.qunit</scope>
+  <description>QUnit :: throws</description>
+</snippet>

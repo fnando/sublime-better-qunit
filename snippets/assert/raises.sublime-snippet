@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${QUNIT_ASSERT_PREFIX}raises(${1:callback}, ${2:expected});
+]]></content>
+  <tabTrigger>raises</tabTrigger>
+  <scope>source.js.qunit</scope>
+  <description>QUnit :: raises</description>
+</snippet>

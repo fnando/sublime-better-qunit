@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+name: QUnit
+file_extensions:
+  - _test.js
+scope: source.js.qunit
+contexts:
+  main:
+    - include: 'scope:source.js'

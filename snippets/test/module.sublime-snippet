@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${QUNIT_PREFIX}module(${TM_QUOTE}${1:description}${TM_QUOTE});
+]]></content>
+  <tabTrigger>module</tabTrigger>
+  <scope>source.js.qunit</scope>
+  <description>QUnit.module</description>
+</snippet>

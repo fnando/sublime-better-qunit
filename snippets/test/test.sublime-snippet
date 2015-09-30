@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+${QUNIT_PREFIX}test(${TM_QUOTE}${1:description}${TM_QUOTE}, function(assert) {
+  $0
+});
+]]></content>
+  <tabTrigger>t</tabTrigger>
+  <scope>source.js.qunit</scope>
+  <description>QUnit.test</description>
+</snippet>

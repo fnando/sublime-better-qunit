@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${QUNIT_ASSERT_PREFIX}notPropEqual(${1:actual}, ${2:expected});
+]]></content>
+  <tabTrigger>notPropEqual</tabTrigger>
+  <scope>source.js.qunit</scope>
+  <description>QUnit :: notPropEqual</description>
+</snippet>

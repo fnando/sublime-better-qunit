@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${QUNIT_ASSERT_PREFIX}equal(${1:actual}, ${2:expected});
+]]></content>
+  <tabTrigger>equal</tabTrigger>
+  <scope>source.js.qunit</scope>
+  <description>QUnit :: equal</description>
+</snippet>

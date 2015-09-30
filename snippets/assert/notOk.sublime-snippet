@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+${QUNIT_ASSERT_PREFIX}notOk(${1:state});
+]]></content>
+  <tabTrigger>notOk</tabTrigger>
+  <scope>source.js.qunit</scope>
+  <description>QUnit :: notOk</description>
+</snippet>

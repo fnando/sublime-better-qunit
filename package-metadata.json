@@ -1,0 +1,7 @@
+{
+  "dependencies": [],
+  "sublime_text": "*",
+  "platforms": ["*"],
+  "url": "https://github.com/fnando/better-qunit-for-sublime-text",
+  "description": "Better QUnit for Sublime Text"
+}

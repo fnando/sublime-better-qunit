@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+QUnit.assert
+]]></content>
+  <tabTrigger>assert</tabTrigger>
+  <scope>source.js.qunit</scope>
+  <description>QUnit.assert</description>
+</snippet>
