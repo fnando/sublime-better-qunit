@@ -2,15 +2,16 @@
 
 This is a custom QUnit package, that includes snippets, custom syntax highlighters and more!
 
-**ATTENTION:** This plugin uses the new `.sublime-syntax` format, which is only available on [Dev Channel](http://www.sublimetext.com/3dev) Build 3084.
+## Installation
 
-## Install
+### Setup Package Control Repository
 
-First of all, add this custom repository: <https://gist.github.com/fnando/56393d3900af55bf9e94>; just follow the instructions.
+1. Follow the instructions from https://sublime.fnando.com.
+2. Open the command pallete, run “Package Control: Install Package“, then search for “Better QUnit“.
 
-Then, install the `Better QUnit` package. Also, install the [ApplySyntax](https://github.com/facelessuser/ApplySyntax) package and use the following settings.
+### Git Clone
 
-By the way, there is a [Better Rails](https://github.com/fnando/better-rails-for-sublime-text) package as well.
+Clone this repository into the Sublime Text “Packages” directory, which is located where ever the “Preferences” -> “Browse Packages” option in sublime takes you.
 
 ## ApplySyntax configuration
 
